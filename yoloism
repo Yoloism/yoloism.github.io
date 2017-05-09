@@ -1,2 +1,7 @@
-# yoloism.github.io
-still yolo
+#include <stdio.h>
+int main(void)
+
+int a
+printf("Enter a")
+scanf("%d", &a)
+printf("Your a is %d", a)
